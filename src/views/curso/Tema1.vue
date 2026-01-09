@@ -149,7 +149,7 @@
     
     h2(data-aos="fade-left").mb-5 Caso práctico: gestión del capital humano en INTECSOFT S.A.S.
 
-    .bg-color-6.mb-5
+    .bg-color-6.mb-5.brd-1
       .px-4.px-md-5
         .row.justify-content-center.align-items-center
           .col-lg-12
@@ -207,15 +207,49 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/274611" target="_blank" rel="noopener noreferrer") De Castro Emilio Cerdá, F. J. A. L. M. (s/f). Las energías renovables en el ámbito internacional. Revistasice.com. 
+              a(href="https://es.wikipedia.org/wiki/Capital_intelectual" target="_blank" rel="noopener noreferrer") Wikipedia. (2025). Capital intelectual.  
 
             p.d-flex.my-4
-              img.me-3(src='@/assets/template/book.svg' :style="{'max-width':'16px'}")
-              span De Janeiro, R. (1992). La declaración del Río sobre el Medio Ambiente y el Desarrollo. Río de Janeiro República Federativa del Brasil., aprobada en Estocolmo el, 16.
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="http://www.redalyc.org/articulo.oa?id=456063405007 " target="_blank" rel="noopener noreferrer") Ibarra-Cisneros, M. A., Vela-Reyna, J. B., & Ríos-Nequis, E. I. (2020). Capital intelectual, gestión del conocimiento y desempeño en universidades. Investigación Administrativa, 49(126).  
+
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.researchgate.net/publication/346846189_Gestion_del_Capital_Intelectual_en_las_Organizaciones" target="_blank" rel="noopener noreferrer") García González, J. (2020). Gestión del Capital Intelectual en las Organizaciones [Acceso abierto]. Contaduría y Administración, 62(1), 184-206.  
+
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://revistas.up.ac.pa/index.php/saberes_apudep/article/view/2992" target="_blank" rel="noopener noreferrer") Almengor, S. (2022). Desarrollo de habilidades blandas para el aumento de la productividad en el talento humano. Revista Saberes APUDEP, 5(2), 61–75. Disponible en 
+
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.researchgate.net/publication/320293050_Gestion_por_Competencias_Laborales_en_el_Contexto_del_Proceso_de_Cambios_Politicos_y_Economicos_en_Cuba" target="_blank" rel="noopener noreferrer") Vizcaíno Solano, G., Martes Rodríguez, L., Fontalvo Cerpa, W., & Simancas Trujillo, R. (2016). Gestión del talento humano por competencias para el desarrollo de capacidades. Revista Innovar, 27(66).  
+
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.researchgate.net/publication/320293050_Gestion_por_Competencias_Laborales_en_el_Contexto_del_Proceso_de_Cambios_Politicos_y_Economicos_en_Cuba" target="_blank" rel="noopener noreferrer") Sánchez Rodríguez, A., Martínez Vivar, R., & Moreno Lázaro, J. (2017). Gestión por competencias laborales en el contexto de cambios económicos y políticos. Revista Innovar, 27(66).  
+
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://doi.org/10.56712/latam.v5i1.1653" target="_blank" rel="noopener noreferrer") Paiva de Báez, G. I. (2024). Evolución histórica de la gestión del talento humano, año 2023. LATAM Revista Latinoamericana de Ciencias Sociales y Humanidades, 5(1), 992–1006.  
+
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.deloitte.com/latam/es/services/consulting/research/tendencias-globales-de-capital-humano-2023.html " target="_blank" rel="noopener noreferrer") Deloitte. (2023). Tendencias globales de capital humano 2023.  
+
+
 
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-              a(href="https://youtu.be/QKLjwCMyv3M?si=uAWhO9tnyghljaJg" target="_blank" rel="noopener noreferrer") Innovación y sostenibilidad.
+              a(href="https://www.youtube.com/watch?v=AhvwPVBj7G8   " target="_blank" rel="noopener noreferrer") Universidad Continental (2021, 22 de agosto). Analítica predictiva para recursos humanos. [Vídeo] YouTube.        
+
+
 
           .col-12.col-md-6.col-lg-3.offset-lg-1
             figure

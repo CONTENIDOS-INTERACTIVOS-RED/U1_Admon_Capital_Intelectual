@@ -23,7 +23,7 @@
             figure
               img(src="@/assets/curso/intro/3.svg", data-aos="zoom-in")
           .col-lg-9.order-lg-1        
-            .bg-color-2.p-5.mb-3(data-aos="fade-left")
+            .bg-color-2.p-5.mb-3.brd(data-aos="fade-left")
               p.mb-0 Este tema resulta especialmente significativo en el contexto profesional actual, donde el talento humano no solo representa un recurso, sino un motor de transformación e innovación. Por ello, comprender su gestión no es únicamente una necesidad técnica, sino una competencia estratégica que impacta en la vida laboral del estudiante y en el futuro de cualquier organización en la que participe.
             p(data-aos="fade-left") La unidad está organizada en torno a cuatro temas claves: 
 

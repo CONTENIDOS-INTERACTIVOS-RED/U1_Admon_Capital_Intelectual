@@ -32,17 +32,7 @@
 
     p.mb-5 El capital humano representa el conjunto de capacidades, conocimientos y actitudes que posean los colaboradores, un activo intangible que determina la capacidad competitiva de la organización. En los modelos estratégicos actuales, las empresas orientan sus esfuerzos hacia la retención, desarrollo y bienestar de su talento, pues reconocen que de ello depende su sostenibilidad y capacidad de innovación.
 
-    .bg-color-6
-      .px-4.px-md-5
-        .row.justify-content-center.align-items-center
-          .col-lg-12
-            .row.justify-content-center.align-items-center
-              .col-lg-8.p-4(data-aos="fade-left").mb-3.mb-lg-0
-                p Las organizaciones destacan el valor de la inversión en desarrollo, especialmente mediante formación continua, para mejorar la productividad y fortalecer la cultura interna.
-                p.mb-0 Un estudio encuentra que la gestión estratégica del capital humano, centrada en competencias alineadas con objetivos institucionales, incrementa la eficiencia organizacional y el desempeño en contextos cambiantes. Además, se reconoce que el capital humano bien gestionado es fuente de ventaja competitiva sostenible, puesto que integra conocimiento técnico con habilidades blandas: comunicación, liderazgo y adaptabilidad, esenciales para navegar en entornos inciertos (Redalyc, 2020).
-
-              .col-lg-4(data-aos="zoom-in")
-                img.img-fluid(src='@/assets/curso/tema2/4.svg', style="max-width:486px", alt="" ).mx-auto.mx-lg-0.ms-lg-auto.mb-4.mb-lg-0
+    
     
     .bg-color-7.mb-5
       .px-4.px-md-5
@@ -73,7 +63,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-7.mb-3.mb-lg-0
             h2.mb-4(data-aos="flip-up") Procesos de adquisición, desarrollo y retención del talento
-            p.mb-4(data-aos="fade-right") En el PDF Procesos de adquisición, desarrollo y retención del talento, se analizan estrategias clave para cada una de estas etapas, así como casos prácticos que ilustran su implementación en contextos reales. Este recurso permitirá al estudiante comprender cómo fortalecer competencias técnicas y blandas, promoviendo equipos comprometidos, adaptables y alineados con los valores institucionales.
+            p.mb-4(data-aos="fade-right") En el PDF <b>Procesos de adquisición</b>, desarrollo y retención del talento, se analizan estrategias clave para cada una de estas etapas, así como casos prácticos que ilustran su implementación en contextos reales. Este recurso permitirá al estudiante comprender cómo fortalecer competencias técnicas y blandas, promoviendo equipos comprometidos, adaptables y alineados con los valores institucionales.
     
             a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_2.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")

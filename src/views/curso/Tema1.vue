@@ -118,7 +118,7 @@
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
-                p <strong>Anexo. </strong> Modelos de gestión por competencias .
+                p <strong>Anexo. </strong> Modelos de gestión por competencias.
     
           .col-lg-5.order-1.mb-3.mb-lg-0
             figure(data-aos="zoom-in")

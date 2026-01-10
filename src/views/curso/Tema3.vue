@@ -357,8 +357,189 @@
 </template>
 
 <script>
+import Actividad from '@/components/actividad/Actividad.vue'
 export default {
-  name: 'Tema3',
+  name: 'Tema4',
+  components: {
+    Actividad,
+  },
+  data() {
+    return {
+      cuestionario: {
+        tema: 'Herramientas colaborativas para la construcción de paz',
+        titulo: 'Ponte a prueba',
+        introduccion:
+          'Demuestra lo que aprendiste en esta unidad y pon a prueba tus conocimientos.',
+        barajarPreguntas: true,
+        preguntas: [
+          {
+            id: 1,
+            texto:
+              '¿Cuál de los siguientes conceptos define mejor la <strong>cultura organizacional</strong>?',
+            imagen: '',
+            barajarRespuestas: true,
+            opciones: [
+              {
+                id: 'a',
+                texto: 'La estructura jerárquica que rige una empresa.',
+                esCorrecta: false,
+              },
+              {
+                id: 'b',
+                texto: 'El número de empleados y su rotación anual.',
+                esCorrecta: false,
+              },
+              {
+                id: 'c',
+                texto:
+                  'El conjunto de valores, normas y creencias compartidas por los miembros de una organización.',
+                esCorrecta: true,
+              },
+              {
+                id: 'd',
+                texto:
+                  'La ubicación física y los recursos tecnológicos disponibles.',
+                esCorrecta: false,
+              },
+            ],
+            mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+            mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          },
+          {
+            id: 2,
+            texto:
+              '¿Qué práctica se relaciona directamente con la <strong>responsabilidad social empresarial</strong> en la gestión del talento?',
+            imagen: '',
+            barajarRespuestas: true,
+            opciones: [
+              {
+                id: 'a',
+                texto: 'Aplicar descuentos por puntualidad en la nómina.',
+                esCorrecta: false,
+              },
+              {
+                id: 'b',
+                texto: 'Mantener confidencial la información de los clientes.',
+                esCorrecta: false,
+              },
+              {
+                id: 'c',
+                texto:
+                  'Fomentar el voluntariado corporativo entre los colaboradores.',
+                esCorrecta: true,
+              },
+              {
+                id: 'd',
+                texto: 'Establecer metas de producción más exigentes.',
+                esCorrecta: false,
+              },
+            ],
+            mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+            mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          },
+          {
+            id: 3,
+            texto:
+              '¿Cuál es un <strong>dilema ético común</strong> en la gestión del talento humano?',
+            imagen: '',
+            barajarRespuestas: true,
+            opciones: [
+              {
+                id: 'a',
+                texto: 'Seleccionar candidatos con mayor experiencia.',
+                esCorrecta: false,
+              },
+              {
+                id: 'b',
+                texto: 'Aplicar entrevistas estructuradas.',
+                esCorrecta: false,
+              },
+              {
+                id: 'c',
+                texto:
+                  'Elegir entre contratar al más calificado o al recomendado por la alta dirección.',
+                esCorrecta: true,
+              },
+              {
+                id: 'd',
+                texto: 'Realizar capacitaciones semestrales.',
+                esCorrecta: false,
+              },
+            ],
+            mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+            mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          },
+          {
+            id: 4,
+            texto:
+              '¿Qué <strong>habilidad blanda</strong> es esencial para promover un entorno ético en la organización?',
+            imagen: '',
+            barajarRespuestas: true,
+            opciones: [
+              {
+                id: 'a',
+                texto: 'Dominio de herramientas ofimáticas.',
+                esCorrecta: false,
+              },
+              {
+                id: 'b',
+                texto: 'Empatía y comunicación asertiva.',
+                esCorrecta: true,
+              },
+              {
+                id: 'c',
+                texto: 'Capacidad de memorizar procedimientos.',
+                esCorrecta: false,
+              },
+              {
+                id: 'd',
+                texto: 'Precisión en cálculos financieros.',
+                esCorrecta: false,
+              },
+            ],
+            mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+            mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          },
+          {
+            id: 5,
+            texto:
+              '¿Cuál es una <strong>ventaja clave</strong> de implementar prácticas de RSE en la gestión del talento?',
+            imagen: '',
+            barajarRespuestas: true,
+            opciones: [
+              {
+                id: 'a',
+                texto: 'Reducción de horarios laborales.',
+                esCorrecta: false,
+              },
+              {
+                id: 'b',
+                texto: 'Aumento de la carga de trabajo del área de RR.HH.',
+                esCorrecta: false,
+              },
+              {
+                id: 'c',
+                texto:
+                  'Mejora en el clima laboral y mayor compromiso del personal.',
+                esCorrecta: true,
+              },
+              {
+                id: 'd',
+                texto: 'Reducción del presupuesto de formación.',
+                esCorrecta: false,
+              },
+            ],
+            mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+            mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          },
+        ],
+        mensaje_final_aprobado:
+          '¡Felicidades! Has superado la prueba con éxito.',
+        mensaje_final_reprobado:
+          'Te recomendamos repasar nuevamente la unidad para reforzar los conceptos clave antes de volver a intentarlo.',
+      },
+    }
+  },
   mounted() {
     this.$nextTick(() => {
       this.$aosRefresh()
@@ -367,4 +548,7 @@ export default {
 }
 </script>
 
-<style lang="sass"></style>
+<style lang="sass">
+.bg-color-actividad
+  background-color: #EBF1F5
+</style>

@@ -100,35 +100,6 @@ export default {
         ],
       },
       {
-        nombreRuta: 'tema4',
-        icono: 'far fa-file-alt',
-        numero: '4',
-        titulo:
-          'Innovación y liderazgo para la transformación del talento humano',
-        desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.1',
-            titulo: 'Tendencias en la innovación de la gestión del talento ',
-            hash: 't_4_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.2',
-            titulo: 'Liderazgo transformacional y desarrollo de competencias',
-            hash: 't_4_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.3',
-            titulo:
-              'Indicadores y evaluación de la transformación del capital humano',
-            hash: 't_4_3',
-          },
-        ],
-      },
-      {
         nombreRuta: 'sintesis',
         titulo: 'Síntesis',
         desarrolloContenidos: true,

@@ -217,7 +217,7 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="http://dx.doi.org/10.3926/ic.292 redalyc.org" target="_blank" rel="noopener noreferrer") Núñez-Cacho Utrilla, P., & Grande Torraleja, F. A. (2012). El desarrollo de los recursos humanos a través del mentoring: el caso español. Revista Inclusión, 8(1), 61–91.  
+              a(href="https://www.redalyc.org/journal/290/29066223019/html/" target="_blank" rel="noopener noreferrer") López, J., & Contreras, F. (2021). Capital humano como actor central de la sostenibilidad empresarial. Revista de Ciencias Sociales, 27(2), 85–98.
 
 
             p.d-flex.my-4
@@ -227,7 +227,7 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://repository.ucc.edu.co/bitstreams/badadbf3-eb4e-4564-8aa4-b9f5fd0780d2/download" target="_blank" rel="noopener noreferrer") Universidad Cooperativa de Colombia (2023). Influencia del capital humano en la sostenibilidad financiera en PYMES.  
+              a(href="https://www.prensalibre.com/c-studio/como-el-desarrollo-del-capital-humano-puede-lograr-la-sostenibilidad-de-una-empresa/" target="_blank" rel="noopener noreferrer") Prensa Libre. (2021). Cómo el desarrollo del capital humano puede lograr la sostenibilidad de una empresa.
 
 
 

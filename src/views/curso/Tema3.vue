@@ -326,9 +326,6 @@
               a(href="https://revistas.umariana.edu.co/index.php/ExcelsiumScientia/article/download/4602/4733" target="_blank" rel="noopener noreferrer") Revista Excelsium Scientia. (2024). Principios éticos y gestión responsable del talento humano en administración de salud.  
 
 
-            p.d-flex.my-4
-              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://arxiv.org/abs/2008.00371 arxiv.org" target="_blank" rel="noopener noreferrer") Páez, A. & Ramírez-Bustamante, N. (2020). Análisis jurídico de la discriminación algorítmica en los procesos de selección laboral. arXiv.  
 
 
             p.d-flex.my-4

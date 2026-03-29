@@ -270,102 +270,102 @@ export default {
   glosario: [
     {
       termino: 'Asertividad',
-      definicion:
+      significado:
         'Capacidad de expresar opiniones, deseos y necesidades de forma clara y respetuosa.',
     },
     {
       termino: 'Clima organizacional',
-      definicion:
+      significado:
         'Ambiente interno de la empresa percibido por los empleados, influye en su desempeño y bienestar.',
     },
     {
       termino: 'Compromiso',
-      definicion:
+      significado:
         'Nivel de involucramiento y sentido de pertenencia del trabajador con la organización.',
     },
     {
       termino: 'Comunicación organizacional',
-      definicion:
+      significado:
         'Proceso mediante el cual fluye la información dentro de la empresa entre los diferentes niveles.',
     },
     {
       termino: 'Confidencialidad',
-      definicion:
+      significado:
         'Principio ético que implica proteger la información sensible del talento humano.',
     },
     {
       termino: 'Cultura organizacional',
-      definicion:
+      significado:
         'Conjunto de valores, creencias y normas compartidas que definen el comportamiento en una organización.',
     },
     {
       termino: 'Desempeño',
-      definicion:
+      significado:
         'Grado en que una persona cumple con las responsabilidades y objetivos asignados en su cargo.',
     },
     {
       termino: 'Diversidad',
-      definicion:
+      significado:
         'Reconocimiento y valoración de las diferencias individuales en el entorno laboral.',
     },
     {
       termino: 'Empatía',
-      definicion:
+      significado:
         'Capacidad de comprender y compartir los sentimientos de otros, clave en la gestión humana.',
     },
     {
       termino: 'Equidad',
-      definicion:
+      significado:
         'Tratamiento justo e imparcial en el acceso a oportunidades, compensaciones y desarrollo.',
     },
     {
       termino: 'Formación continua',
-      definicion:
+      significado:
         'Proceso educativo permanente que busca mejorar las competencias del trabajador.',
     },
     {
       termino: 'Gestión del talento',
-      definicion:
+      significado:
         'Conjunto de prácticas para atraer, desarrollar y retener a los empleados con alto potencial.',
     },
     {
       termino: 'Inclusión',
-      definicion:
+      significado:
         'Práctica organizacional que garantiza participación equitativa sin discriminación.',
     },
     {
       termino: 'Liderazgo',
-      definicion:
+      significado:
         'Capacidad de influir, motivar y guiar a un equipo hacia el logro de objetivos.',
     },
     {
       termino: 'Motivación',
-      definicion:
+      significado:
         'Impulso interno que dirige el comportamiento hacia metas organizacionales.',
     },
     {
       termino: 'Responsabilidad social',
-      definicion:
+      significado:
         'Compromiso de la organización con el bienestar social, ambiental y económico.',
     },
     {
       termino: 'Retención de talento',
-      definicion:
+      significado:
         'Estrategias para mantener a los empleados clave dentro de la organización.',
     },
     {
       termino: 'Sostenibilidad',
-      definicion:
+      significado:
         'Capacidad de la organización para operar sin comprometer recursos futuros.',
     },
     {
       termino: 'Valores corporativos',
-      definicion:
+      significado:
         'Principios fundamentales que guían el comportamiento y la toma de decisiones en la empresa.',
     },
     {
       termino: 'Ética laboral',
-      definicion:
+      significado:
         'Conjunto de principios morales que regulan el comportamiento en el trabajo.',
     },
   ],

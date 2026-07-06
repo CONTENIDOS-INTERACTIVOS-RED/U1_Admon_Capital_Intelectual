@@ -229,9 +229,9 @@
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
               a(href="https://www.prensalibre.com/c-studio/como-el-desarrollo-del-capital-humano-puede-lograr-la-sostenibilidad-de-una-empresa/" target="_blank" rel="noopener noreferrer") Prensa Libre. (2021). Cómo el desarrollo del capital humano puede lograr la sostenibilidad de una empresa.
 
-
-
-           
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://upcommons.upc.edu/entities/publication/b44e2d70-70e5-4f54-8a41-7f5b48d51974" target="_blank" rel="noopener noreferrer") Núñez-Cacho Utrilla, P., & Grande Torraleja, F. A. (2012). El desarrollo de los recursos humanos a través del mentoring: el caso español. Revista Inclusión, 8(1), 61–91.
 
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")

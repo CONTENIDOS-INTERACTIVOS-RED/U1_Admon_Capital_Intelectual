@@ -330,7 +330,7 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://www.cemefi.org/centrodedocumentacion/1426.pdf" target="_blank" rel="noopener noreferrer") CEMEFI. (2021). Responsabilidad Social Empresarial: guía de principios y políticas. Centro Mexicano para la Filantropía.  
+              a(href="https://www.cemefi.org/centrodedocumentacion/2143.pdf" target="_blank" rel="noopener noreferrer") CEMEFI. (2021). Responsabilidad Social Empresarial: guía de principios y políticas. Centro Mexicano para la Filantropía.  
 
  
             p.d-flex.my-4

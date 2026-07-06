@@ -211,7 +211,7 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="http://www.redalyc.org/articulo.oa?id=456063405007 " target="_blank" rel="noopener noreferrer") Ibarra-Cisneros, M. A., Vela-Reyna, J. B., & Ríos-Nequis, E. I. (2020). Capital intelectual, gestión del conocimiento y desempeño en universidades. Investigación Administrativa, 49(126).  
+              a(href="https://www.scielo.org.mx/scielo.php?pid=S2448-76782020000200006&script=sci_arttext" target="_blank" rel="noopener noreferrer") Ibarra-Cisneros, M. A., Vela-Reyna, J. B., & Ríos-Nequis, E. I. (2020). Capital intelectual, gestión del conocimiento y desempeño en universidades. Investigación Administrativa, 49(126).  
 
 
             p.d-flex.my-4
